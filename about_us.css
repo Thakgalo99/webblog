@@ -1,0 +1,17 @@
+body{
+
+    font-family: Source Sans Pro;
+    padding: 0px;
+    margin: 0px;
+    background-color:lightslategray;
+  
+  }
+p{
+  text-align: center;
+  color: #fff;
+  font-size:20px;
+}
+h1{
+  text-align: center;
+  color: #fff;
+}
